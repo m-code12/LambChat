@@ -1,6 +1,6 @@
 # LambChat Application
 
-[Live Site](https://lambchat.netlify.app/)
+[Live Site](https://monika-jha-relatime-chat-application.netlify.app/)
 
 <img src="https://media.giphy.com/media/sRRuez8HegKVHtCIzA/giphy.gif" alt="lambchat.gif" />
 
